@@ -277,13 +277,13 @@ section .title::after{
     justify-content: center;
 }
 .services .serv-content .card{
-    
-    width: 50%;
+    width: 45%;
     justify-content: center;
     background: #222;
     text-align: center;
     border-radius: 6px;
     padding: 20px 25px;
+    margin: 0 0.7rem;
     cursor: pointer;
     transition: all 0.3s ease;
 }

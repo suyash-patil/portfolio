@@ -1018,16 +1018,6 @@ a.fa.fa-angle-down:focus {
     margin: 0 auto;
     width: 75px;
     height: auto;
-    -webkit-filter: grayscale(100%);
-    filter: grayscale(100%);
-    -webkit-transition: all .3s ease-in-out;
-    -moz-transition: all .3s ease-in-out;
-    transition: all .3s ease-in-out
-}
-
-.skills-section .skill-icon img:hover {
-    -webkit-filter: none;
-    filter: none;
 }
 
 @media screen and (min-width: 450px) {

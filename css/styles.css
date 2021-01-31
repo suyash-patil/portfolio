@@ -1636,11 +1636,11 @@ img::-moz-selection {
 }
 
 ::-webkit-scrollbar {
-    width: 1.32rem;
+    width: 1rem;
 }
 
 ::-webkit-scrollbar-thumb {
-    background: -webkit-gradient(linear, left top, left bottom, from(#ff8100),to(#da1b60));
+    background: -webkit-gradient(linear, left top, left bottom, from(#646464),to(#646464));
     box-shadow: inset 2px 2px 2px rgba(255,255,255,0.25), inset -2px -2px -2px rgba(0,0,0,0.25);
     border-radius: 30px;
 }
